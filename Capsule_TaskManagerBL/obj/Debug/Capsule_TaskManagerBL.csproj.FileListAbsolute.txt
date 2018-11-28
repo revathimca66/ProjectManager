@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Final Project\ProjectManager_UIandService-master\Dotnet\Capsule_TaskManagerBL\bin\Debug\Capsule_TaskManagerBL.dll
+C:\Users\Admin\Desktop\Final Project\ProjectManager_UIandService-master\Dotnet\Capsule_TaskManagerBL\bin\Debug\Capsule_TaskManagerBL.pdb
+C:\Users\Admin\Desktop\Final Project\ProjectManager_UIandService-master\Dotnet\Capsule_TaskManagerBL\bin\Debug\Capsule_TaskManager.Models.dll
+C:\Users\Admin\Desktop\Final Project\ProjectManager_UIandService-master\Dotnet\Capsule_TaskManagerBL\bin\Debug\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Desktop\Final Project\ProjectManager_UIandService-master\Dotnet\Capsule_TaskManagerBL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Final Project\ProjectManager_UIandService-master\Dotnet\Capsule_TaskManagerBL\bin\Debug\Capsule_TaskManager.Models.pdb
+C:\Users\Admin\Desktop\Final Project\ProjectManager_UIandService-master\Dotnet\Capsule_TaskManagerBL\bin\Debug\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Desktop\Final Project\ProjectManager_UIandService-master\Dotnet\Capsule_TaskManagerBL\bin\Debug\Capsule_TaskManagerDL.dll.config
+C:\Users\Admin\Desktop\Final Project\ProjectManager_UIandService-master\Dotnet\Capsule_TaskManagerBL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Final Project\ProjectManager_UIandService-master\Dotnet\Capsule_TaskManagerBL\obj\Debug\Capsule_TaskManagerBL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Final Project\ProjectManager_UIandService-master\Dotnet\Capsule_TaskManagerBL\obj\Debug\Capsule_TaskManagerBL.dll
+C:\Users\Admin\Desktop\Final Project\ProjectManager_UIandService-master\Dotnet\Capsule_TaskManagerBL\obj\Debug\Capsule_TaskManagerBL.pdb
